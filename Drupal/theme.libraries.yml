@@ -1,0 +1,4 @@
+style:
+  css:
+    theme: 
+      style.css {media: screen and(min-width)}

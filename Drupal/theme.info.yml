@@ -1,0 +1,11 @@
+name: My Drupal Theme
+type: theme
+discription: This is Drupal theme.
+package: Custom
+core: 8.x
+libraries:
+  -/Drupal/style
+  regions: 
+    myheader: My Header
+    content: Content
+    slider: Slider
